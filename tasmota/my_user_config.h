@@ -20,6 +20,10 @@
 #ifndef _MY_USER_CONFIG_H_
 #define _MY_USER_CONFIG_H_
 
+#ifndef USE_NEOPOOL
+#define USE_NEOPOOL                       // Add support for Sugar Valley NeoPool Controller - also known under brands Hidrolife, Aquascenic, Oxilife, Bionet, Hidroniser, UVScenic, Station, Brilix, Bayrol and Hay (+6k flash, +60 mem)
+#endif
+
 /*********************************************************************************************\
  * This file consists of TWO sections.
  *
